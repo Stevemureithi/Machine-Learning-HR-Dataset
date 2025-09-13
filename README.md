@@ -1,5 +1,6 @@
 # Machine-Learning-HR-Dataset
 A project exploring data science and machine learning tools to analyze a human resource dataset, examining different attributes of employees from Kaggle.
+
 #**Part A: Basic EDA (Exploratory Data Analysis)**
 
 This section focuses on understanding the structure and quality of the HR dataset. It involves checking dataset dimensions, data types, and missing values and generating descriptive statistics. Key insights such as employee demographics, salary distributions, and departmental sizes are explored. Tools used here include Pandas for data manipulation, NumPy for numerical support, and Matplotlib/Seaborn for visual exploration.
